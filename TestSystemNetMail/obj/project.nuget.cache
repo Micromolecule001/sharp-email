@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XbHoIG8LOGc=",
+  "success": true,
+  "projectFilePath": "/home/dmtr/Gits/sharpmail/TestSystemNetMail/TestSystemNetMail.csproj",
+  "expectedPackageFiles": [
+    "/home/dmtr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

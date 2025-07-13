@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0EOCfwjqDRU=",
+  "success": true,
+  "projectFilePath": "/home/dmtr/Gits/sharpmail/TestSmtpServer/TestSmtpServer.csproj",
+  "expectedPackageFiles": [
+    "/home/dmtr/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.6/microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.6/microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/smtpserver/11.0.0/smtpserver.11.0.0.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

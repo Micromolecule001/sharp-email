@@ -1,0 +1,15 @@
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/bin/Debug/net9.0/TestSystemNetMail
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/bin/Debug/net9.0/TestSystemNetMail.deps.json
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/bin/Debug/net9.0/TestSystemNetMail.runtimeconfig.json
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/bin/Debug/net9.0/TestSystemNetMail.dll
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/bin/Debug/net9.0/TestSystemNetMail.pdb
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.AssemblyInfoInputs.cache
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.AssemblyInfo.cs
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.csproj.CoreCompileInputs.cache
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.sourcelink.json
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.dll
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/refint/TestSystemNetMail.dll
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.pdb
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/TestSystemNetMail.genruntimeconfig.cache
+/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/Debug/net9.0/ref/TestSystemNetMail.dll

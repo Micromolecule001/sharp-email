@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "axO6eSxZJIY=",
+  "success": true,
+  "projectFilePath": "/home/dmtr/Gits/sharpmail/TestFluentEmailSmtp/TestFluentEmailSmtp.csproj",
+  "expectedPackageFiles": [
+    "/home/dmtr/.nuget/packages/fluentemail.core/3.0.2/fluentemail.core.3.0.2.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/fluentemail.smtp/3.0.2/fluentemail.smtp.3.0.2.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/dmtr/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
