@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSendGrid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0c400673193d993345e72d981b93b4fdd954a5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97ccda18fb538a7ee40704cdc32305751d4658fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSendGrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSendGrid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

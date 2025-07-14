@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "54g7uYUZoKs=",
+  "dgSpecHash": "THUSY8rzAjU=",
   "success": true,
-  "projectFilePath": "/home/dmtr/Gits/sharpmail/TestMimeKit/TestMimeKit.csproj",
+  "projectFilePath": "/home/dmtr/Gits/sharpemail/TestMimeKit/TestMimeKit.csproj",
   "expectedPackageFiles": [
     "/home/dmtr/.nuget/packages/bouncycastle.cryptography/2.5.1/bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "/home/dmtr/.nuget/packages/mimekit/4.13.0/mimekit.4.13.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dmtr/Gits/sharpmail/TestMimeKit/TestMimeKit.csproj": {}
+    "/home/dmtr/Gits/sharpemail/TestMimeKit/TestMimeKit.csproj": {}
   },
   "projects": {
-    "/home/dmtr/Gits/sharpmail/TestMimeKit/TestMimeKit.csproj": {
+    "/home/dmtr/Gits/sharpemail/TestMimeKit/TestMimeKit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dmtr/Gits/sharpmail/TestMimeKit/TestMimeKit.csproj",
+        "projectUniqueName": "/home/dmtr/Gits/sharpemail/TestMimeKit/TestMimeKit.csproj",
         "projectName": "TestMimeKit",
-        "projectPath": "/home/dmtr/Gits/sharpmail/TestMimeKit/TestMimeKit.csproj",
+        "projectPath": "/home/dmtr/Gits/sharpemail/TestMimeKit/TestMimeKit.csproj",
         "packagesPath": "/home/dmtr/.nuget/packages/",
-        "outputPath": "/home/dmtr/Gits/sharpmail/TestMimeKit/obj/",
+        "outputPath": "/home/dmtr/Gits/sharpemail/TestMimeKit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dmtr/.nuget/NuGet/NuGet.Config"

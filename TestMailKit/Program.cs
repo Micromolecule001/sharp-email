@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 // === LOAD CONFIG ===
 var config = new ConfigurationBuilder()
     .SetBasePath(Directory.GetCurrentDirectory())
-    .AddJsonFile("../appconfig.json")
+    .AddJsonFile("appconfig.json")
     .Build();
 
 // === GET VALUES ===

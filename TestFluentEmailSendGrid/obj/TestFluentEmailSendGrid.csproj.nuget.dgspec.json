@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dmtr/Gits/sharpmail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj": {}
+    "/home/dmtr/Gits/sharpemail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj": {}
   },
   "projects": {
-    "/home/dmtr/Gits/sharpmail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj": {
+    "/home/dmtr/Gits/sharpemail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dmtr/Gits/sharpmail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj",
+        "projectUniqueName": "/home/dmtr/Gits/sharpemail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj",
         "projectName": "TestFluentEmailSendGrid",
-        "projectPath": "/home/dmtr/Gits/sharpmail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj",
+        "projectPath": "/home/dmtr/Gits/sharpemail/TestFluentEmailSendGrid/TestFluentEmailSendGrid.csproj",
         "packagesPath": "/home/dmtr/.nuget/packages/",
-        "outputPath": "/home/dmtr/Gits/sharpmail/TestFluentEmailSendGrid/obj/",
+        "outputPath": "/home/dmtr/Gits/sharpemail/TestFluentEmailSendGrid/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dmtr/.nuget/NuGet/NuGet.Config"
@@ -51,6 +51,14 @@
             "FluentEmail.SendGrid": {
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
             }
           },
           "imports": [

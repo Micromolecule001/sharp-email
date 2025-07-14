@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dmtr/Gits/sharpmail/TestSystemNetMail/TestSystemNetMail.csproj": {}
+    "/home/dmtr/Gits/sharpemail/TestSystemNetMail/TestSystemNetMail.csproj": {}
   },
   "projects": {
-    "/home/dmtr/Gits/sharpmail/TestSystemNetMail/TestSystemNetMail.csproj": {
+    "/home/dmtr/Gits/sharpemail/TestSystemNetMail/TestSystemNetMail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dmtr/Gits/sharpmail/TestSystemNetMail/TestSystemNetMail.csproj",
+        "projectUniqueName": "/home/dmtr/Gits/sharpemail/TestSystemNetMail/TestSystemNetMail.csproj",
         "projectName": "TestSystemNetMail",
-        "projectPath": "/home/dmtr/Gits/sharpmail/TestSystemNetMail/TestSystemNetMail.csproj",
+        "projectPath": "/home/dmtr/Gits/sharpemail/TestSystemNetMail/TestSystemNetMail.csproj",
         "packagesPath": "/home/dmtr/.nuget/packages/",
-        "outputPath": "/home/dmtr/Gits/sharpmail/TestSystemNetMail/obj/",
+        "outputPath": "/home/dmtr/Gits/sharpemail/TestSystemNetMail/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dmtr/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
